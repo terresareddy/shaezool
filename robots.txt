@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://udoodiapu.wegwarte-coaching.de/sitemap.xml
